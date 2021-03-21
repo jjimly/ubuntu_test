@@ -1,0 +1,8 @@
+#!/bin/sh
+
+
+#echo "this is a test from ChiaLien Hsu"
+
+sh -x ./man/test.sh
+
+exit 0
